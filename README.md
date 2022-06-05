@@ -1,5 +1,3 @@
-# to-do-list-various-languages
-
 <h2>To Do List in various Programming Languages, Frameworks, binding technologies</h2>
 <p>
 Trying to cover all 'to-do-list' Application or Web Application using various programming languages and frameworks.
