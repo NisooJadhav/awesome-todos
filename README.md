@@ -24,5 +24,5 @@ Trying to cover all 'to-do-list' Application or Web Application using various pr
   <li><a href="https://github.com/devxoul/SwiftUITodo">Swift</a></li>
   <li><a href="https://github.com/UltiRequiem/ultitodo">Svelte+TS+JS</a></li>
   <li><a href="https://github.com/evandrotvc/ToDos-React">TypeScript</a></li>
-  <li><a href="https://github.com/sunil-sandhu/vue-todo">Vue</a></li>
+  <li><a href="https://github.com/sunil-sandhu/vue-todo">VueJS</a></li>
 </ul>
