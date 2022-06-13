@@ -16,6 +16,7 @@ Trying to cover all 'to-do-list' Application or Web Application using various pr
   <li><a href="https://github.com/Yalantis/ToDoList">Java</a></li>
   <li><a href="https://github.com/tusharnankani/ToDoList">JavaScript</a></li>
   <li><a href="https://github.com/serbelga/ToDometer">Kotlin</a></li>
+  <li><a href="https://github.com/NisooJadhav/pern-todo">P(PostgreSQL)ERN Stack</a></li>
   <li><a href="https://github.com/pasimako/agitodo">PHP+Java+JS</a></li>
   <li><a href="https://github.com/mkermani144/wanna">React</a></li>
   <li><a href="https://github.com/rogic89/ToDo-react-redux-immutable">React+Redux+ImmutableJS</a></li>
