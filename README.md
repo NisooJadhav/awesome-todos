@@ -12,6 +12,7 @@ Trying to cover all 'to-do-list' Application or Web Application using various pr
   <li><a href="https://github.com/NisooJadhav/to-do-list">EJS</a></li>
   <li><a href="https://github.com/rtzll/flask-todolist">Flask</a></li>
   <li><a href="https://github.com/prashant-shahi/ToDo-List-using-Flask-and-MongoDB">Flask+MongoDB</a></li>
+  <li><a href="https://github.com/mwyrebski/todofs">F#</a></li>
   <li><a href="https://github.com/schadokar/go-to-do-app">Go</a></li>
   <li><a href="https://github.com/Yalantis/ToDoList">Java</a></li>
   <li><a href="https://github.com/tusharnankani/ToDoList">JavaScript</a></li>
