@@ -18,6 +18,7 @@ Trying to cover all 'to-do-list' Application or Web Application using various pr
   <li><a href="https://github.com/serbelga/ToDometer">Kotlin</a></li>
   <li><a href="https://github.com/NisooJadhav/pern-todo">P(PostgreSQL)ERN Stack</a></li>
   <li><a href="https://github.com/pasimako/agitodo">PHP+Java+JS</a></li>
+  <li><a href="https://github.com/marcosvbras/todo-list-python">Python</li>
   <li><a href="https://github.com/NisooJadhav/react-todo">React</a></li>
   <li><a href="https://github.com/rogic89/ToDo-react-redux-immutable">React+Redux+ImmutableJS</a></li>
   <li><a href="https://github.com/mrhead/todos">Ruby/Ruby on Rails</a></li>
@@ -28,9 +29,10 @@ Trying to cover all 'to-do-list' Application or Web Application using various pr
   <li><a href="https://github.com/NisooJadhav/vuex-todo">Vuex</a></li>
 </ul>
 
-
 ## Contributing
+
 Pull requests are welcome.
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
