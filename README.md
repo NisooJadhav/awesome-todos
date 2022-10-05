@@ -4,6 +4,7 @@ Trying to cover all 'to-do-list' Application or Web Application using various pr
 </p>
 
 <ul>
+  <li><a href="https://github.com/amoraitis/TodoList">ASP.NET</a></li>
   <li><a href="https://github.com/couchbaselabs/ToDoLite-Android">Android</a></li>
   <li><a href="https://github.com/sitepoint-editors/angular-todo-app">Angular</a></li>
   <li><a href="https://github.com/abstractspoon/ToDoList_Dev">C++, C#</a></li>
@@ -17,9 +18,11 @@ Trying to cover all 'to-do-list' Application or Web Application using various pr
   <li><a href="https://github.com/Yalantis/ToDoList">Java</a></li>
   <li><a href="https://github.com/tusharnankani/ToDoList">JavaScript</a></li>
   <li><a href="https://github.com/serbelga/ToDometer">Kotlin</a></li>
+  <li><a href="https://github.com/jorgerebolloj/ToDoList-Obj-C">Objective C</a></li>
   <li><a href="https://github.com/NisooJadhav/pern-todo">P(PostgreSQL)ERN Stack</a></li>
   <li><a href="https://github.com/pasimako/agitodo">PHP+Java+JS</a></li>
   <li><a href="https://github.com/marcosvbras/todo-list-python">Python</li>
+  <li><a href="https://github.com/markwh/todoList">R</a></li>
   <li><a href="https://github.com/NisooJadhav/react-todo">React</a></li>
   <li><a href="https://github.com/rogic89/ToDo-react-redux-immutable">React+Redux+ImmutableJS</a></li>
   <li><a href="https://github.com/mrhead/todos">Ruby/Ruby on Rails</a></li>
