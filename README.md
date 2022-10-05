@@ -24,6 +24,7 @@ Trying to cover all 'to-do-list' Application or Web Application using various pr
   <li><a href="https://github.com/marcosvbras/todo-list-python">Python</li>
   <li><a href="https://github.com/markwh/todoList">R</a></li>
   <li><a href="https://github.com/NisooJadhav/react-todo">React</a></li>
+  <li><a href="https://github.com/codeboyfriend/Todo-App">React + Chakra UI</a></li>
   <li><a href="https://github.com/rogic89/ToDo-react-redux-immutable">React+Redux+ImmutableJS</a></li>
   <li><a href="https://github.com/mrhead/todos">Ruby/Ruby on Rails</a></li>
   <li><a href="https://github.com/devxoul/SwiftUITodo">Swift</a></li>
