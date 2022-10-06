@@ -38,6 +38,10 @@ Trying to cover all 'to-do-list' Application or Web Application using various pr
 
 Pull requests are welcome.
 
+## Star
+
+Show your love ❤️ give us a star 🌟 
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
