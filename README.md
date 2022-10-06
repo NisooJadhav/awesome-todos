@@ -39,7 +39,7 @@ Trying to cover all 'to-do-list' Application or Web Application using various pr
 
 ## Contributing
 
-Pull requests are welcome.
+Pull requests are most Welcomed.
 
 ## Star
 
