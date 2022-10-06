@@ -3,7 +3,7 @@
 Trying to cover all 'to-do-list' Application or Web Application using various programming languages and frameworks.
 </p>
 
-<ul>
+
   <li><a href="https://github.com/amoraitis/TodoList">ASP.NET</a></li>
   <li><a href="https://github.com/couchbaselabs/ToDoLite-Android">Android</a></li>
   <li><a href="https://github.com/sitepoint-editors/angular-todo-app">Angular</a></li>
@@ -35,7 +35,7 @@ Trying to cover all 'to-do-list' Application or Web Application using various pr
   <li><a href="https://github.com/evandrotvc/ToDos-React">TypeScript</a></li>
   <li><a href="https://github.com/sunil-sandhu/vue-todo">VueJS</a></li>
   <li><a href="https://github.com/NisooJadhav/vuex-todo">Vuex</a></li>
-</ul>
+
 
 <h2> Contributing</h2>
 
