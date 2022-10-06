@@ -37,14 +37,14 @@ Trying to cover all 'to-do-list' Application or Web Application using various pr
   <li><a href="https://github.com/NisooJadhav/vuex-todo">Vuex</a></li>
 </ul>
 
-## Contributing
+<h2> Contributing</h2>
 
 Pull requests are most Welcomed.
 
-## Star
+<h2> Star</h2>
 
 Show your love ❤️ give us a star 🌟 
 
-## License
+<h2> License</h2>
 
 [MIT](https://choosealicense.com/licenses/mit/)
