@@ -1,50 +1,49 @@
-<h2>To Dos Apps in various Programming Languages, Frameworks, binding technologies</h2>
-<p>
-Trying to cover all 'to-do-list' Application or Web Application using various programming languages and frameworks.
-</p>
+# 📝 To-Do Apps in Various Programming Languages, Frameworks, and Binding Technologies
 
+This repository aims to cover a collection of 'to-do list' applications or web applications implemented using different programming languages and frameworks.
 
-  <li><a href="https://github.com/amoraitis/TodoList">ASP.NET</a></li>
-  <li><a href="https://github.com/couchbaselabs/ToDoLite-Android">Android</a></li>
-  <li><a href="https://github.com/sitepoint-editors/angular-todo-app">Angular</a></li>
-  <li><a href="https://github.com/abstractspoon/ToDoList_Dev">C++, C#</a></li>
-  <li><a href="https://github.com/arthurbz/to_do_list">Dart</a></li>
-  <li><a href="https://github.com/rtzll/django-todolist">Django</a></li>
-  <li><a href="https://github.com/NisooJadhav/to-do-list">EJS</a></li>
-  <li><a href="https://github.com/rtzll/flask-todolist">Flask</a></li>
-  <li><a href="https://github.com/prashant-shahi/ToDo-List-using-Flask-and-MongoDB">Flask+MongoDB</a></li>
-  <li><a href="https://github.com/mwyrebski/todofs">F#</a></li>
-  <li><a href="https://github.com/schadokar/go-to-do-app">Go</a></li>
-  <li><a href="https://github.com/Yalantis/ToDoList">Java</a></li>
-  <li><a href="https://github.com/tusharnankani/ToDoList">JavaScript</a></li>
-  <li><a href="https://github.com/serbelga/ToDometer">Kotlin</a></li>
-  <li><a href="https://github.com/jrgarciadev/nextjs-todo-list.git">Next</a></li>
-  <li><a href="https://github.com/jorgerebolloj/ToDoList-Obj-C">Objective C</a></li>
-  <li><a href="https://github.com/NisooJadhav/pern-todo">P(PostgreSQL)ERN Stack</a></li>
-  <li><a href="https://github.com/pasimako/agitodo">PHP+Java+JS</a></li>
-  <li><a href="https://github.com/marcosvbras/todo-list-python">Python</li>
-  <li><a href="https://github.com/markwh/todoList">R</a></li>
-  <li><a href="https://github.com/NisooJadhav/react-todo">React</a></li>
-  <li><a href="https://github.com/codeboyfriend/Todo-App">React + Chakra UI</a></li>
-  <li><a href="https://github.com/rogic89/ToDo-react-redux-immutable">React+Redux+ImmutableJS</a></li>
-  <li><a href="https://github.com/jvikraman/react-tailwind-todo-app.git">React + Tailwind CSS</a></li>
-  <li><a href="https://github.com/mrhead/todos">Ruby/Ruby on Rails</a></li>
-  <li><a href="https://github.com/dappuniversity/eth-todo-list">Solidity</a></li>
-  <li><a href="https://github.com/devxoul/SwiftUITodo">Swift</a></li>
-  <li><a href="https://github.com/UltiRequiem/ultitodo">Svelte+TS+JS</a></li>
-  <li><a href="https://github.com/evandrotvc/ToDos-React">TypeScript</a></li>
-  <li><a href="https://github.com/sunil-sandhu/vue-todo">VueJS</a></li>
-  <li><a href="https://github.com/NisooJadhav/vuex-todo">Vuex</a></li>
+## Available Apps
 
+- [ASP.NET](https://github.com/amoraitis/TodoList) 🌐
+- [Android](https://github.com/couchbaselabs/ToDoLite-Android) 📱
+- [Angular](https://github.com/sitepoint-editors/angular-todo-app) 🅰️
+- [C++, C#](https://github.com/abstractspoon/ToDoList_Dev) 🗒️
+- [Dart](https://github.com/arthurbz/to_do_list) 🎯
+- [Django](https://github.com/rtzll/django-todolist) 🎻
+- [EJS](https://github.com/NisooJadhav/to-do-list) 📝
+- [Flask](https://github.com/rtzll/flask-todolist) 🌿
+- [Flask+MongoDB](https://github.com/prashant-shahi/ToDo-List-using-Flask-and-MongoDB) 🌿🍃
+- [F#](https://github.com/mwyrebski/todofs) ♯
+- [Go](https://github.com/schadokar/go-to-do-app) 🚀
+- [Java](https://github.com/Yalantis/ToDoList) ☕
+- [JavaScript](https://github.com/tusharnankani/ToDoList) 🌐
+- [Kotlin](https://github.com/serbelga/ToDometer) 🏃‍♀️
+- [Next](https://github.com/jrgarciadev/nextjs-todo-list.git) ⏭️
+- [Objective C](https://github.com/jorgerebolloj/ToDoList-Obj-C) 📱
+- [P(PostgreSQL)ERN Stack](https://github.com/NisooJadhav/pern-todo) 🐘🔥
+- [PHP+Java+JS](https://github.com/pasimako/agitodo) 🐘☕🌐
+- [Python](https://github.com/marcosvbras/todo-list-python) 🐍
+- [R](https://github.com/markwh/todoList) 📊
+- [React](https://github.com/NisooJadhav/react-todo) ⚛️
+- [React + Chakra UI](https://github.com/codeboyfriend/Todo-App) ⚛️💠
+- [React+Redux+ImmutableJS](https://github.com/rogic89/ToDo-react-redux-immutable) ⚛️🔄🔒
+- [React + Tailwind CSS](https://github.com/jvikraman/react-tailwind-todo-app.git) ⚛️🌬️
+- [Ruby/Ruby on Rails](https://github.com/mrhead/todos) 💎🛤️
+- [Solidity](https://github.com/dappuniversity/eth-todo-list) 📚
+- [Swift](https://github.com/devxoul/SwiftUITodo) 🍎
+- [Svelte+TS+JS](https://github.com/UltiRequiem/ultitodo) 🔱📜🌐
+- [TypeScript](https://github.com/evandrotvc/ToDos-React) 📜🌐
+- [VueJS](https://github.com/sunil-sandhu/vue-todo) 🍃
+- [Vuex](https://github.com/NisooJadhav/vuex-todo) 📦
 
-<h2> Contributing</h2>
+## 🤝 Contributing
 
-Pull requests are most Welcomed.
+Pull requests are most welcomed! Feel free to contribute.
 
-<h2> Star</h2>
+## ⭐ Star
 
-Show your love ❤️ give us a star 🌟 
+If you love this project, show your support ❤️ by giving us a star 🌟.
 
-<h2> License</h2>
+## 📄 License
 
 [MIT](https://choosealicense.com/licenses/mit/)
